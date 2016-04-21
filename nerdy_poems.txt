@@ -3,3 +3,4 @@ Chemistry mess, much distress.
 Stem cell, it could mean hell
 Working with science involves run ins with compliance
 Collaboration is fun
+But sometimes local and global gits can be confusing
